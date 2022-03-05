@@ -5,10 +5,19 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=bestsun34)](https://solved.ac/bestsun34)
 
 ## Tech Stack 👩‍💻
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/C++-E34F26?style=for-the-badge&logo=C++&logoColor=white">
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=JAVA&logoColor=white">
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+
+<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
+<img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=MYSQL&logoColor=white">
+<img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
+
 
 ## 💬 Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:34bestsun@gmail.com)
 [![Blog Badge](https://img.shields.io/badge/%20Blog-EF2D5E?style=flat&logoColor=white)](https://blog.naver.com/bestsun34)
 [![instagram Badge](https://img.shields.io/badge/Instagram%20-9999FF?style=flat&logoColor=white)](https://www.instagram.com/haer2m_e/)
+
 
