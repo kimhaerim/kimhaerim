@@ -5,7 +5,7 @@
 <br>
 ![Haerim's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimhaerim&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=bestsun34)](https://solved.ac/bestsun34)
-  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimhaerim&layout=compact)](https://github.com/kimhaerim/github-readme-stats)
 
 
 <div align=center><h2>Tech Stack 👩‍💻</h2></div>
